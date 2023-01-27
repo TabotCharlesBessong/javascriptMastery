@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.scss'
-import { About,Footer,Header,Skills,Testimonial,Work } from './container'
+import { Footer,Header,Skills,Testimonial,Work } from './container'
 import { Navbar } from './components'
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
     <div className="app">
       <Navbar/>
       <Header/>
-      <About/>
+      {/* <About/> */}
       <Work/>
       <Skills/>
       <Testimonial/>
