@@ -35,6 +35,11 @@ import nb from "../assets/nb.png";
 import skype from "../assets/skype.png";
 import spotify from "../assets/spotify.png";
 import me from '../assets/me.jpg'
+import C from '../assets/C.jpg'
+import mongoDB from '../assets/mongoDB.png'
+import reactNative from '../assets/react-native.png'
+import tailwind from '../assets/tailwind-css.svg'
+import sanity from '../assets/sanity.png'
 
 const images = {
 	email,
@@ -70,7 +75,12 @@ const images = {
 	nb,
 	skype,
 	spotify,
-	me
+	me,
+	C,
+	mongoDB,
+	reactNative,
+	tailwind,
+	sanity
 };
 
 
