@@ -52,7 +52,7 @@ const About = () => {
 						className="app__profile-item"
 						key={about.title + index}
 					>
-						<img src={about.imgUrl} alt="" />
+						<img src={urlFor(about.imgUrl)} alt="" />
 						<h2 className="bold-text" style={{ marginTop: 20 }}>
 							{about.title}
 						</h2>
