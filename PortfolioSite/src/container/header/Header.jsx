@@ -16,6 +16,9 @@ const scaleVariants = {
 	},
 };
 
+console.log("check token", import.meta.env.REACT_APP_SANITY_PROJECT_ID);
+
+
 const Header = () => (
 	<div className="app__header app__flex">
 		<motion.div
