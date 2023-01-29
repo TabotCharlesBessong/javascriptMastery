@@ -15,7 +15,7 @@ const SocialMedia = () => (
 		</div>
 		<div>
 			<a
-				href="https://facebook.com/TabotCharlesTheSecond"
+				href="https://www.facebook.com/CharlesBessongTabot"
 				target="_blank"
 				rel="noopener noreferrer"
 			>
